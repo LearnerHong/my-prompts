@@ -1,3 +1,3 @@
-# Test Prompt
+# Updated Test Prompt
 
-This is a test.
+With updated content.
